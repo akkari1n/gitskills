@@ -1,2 +1,2 @@
-# gitlskills
+# gitskills
 for test
